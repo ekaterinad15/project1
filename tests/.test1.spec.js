@@ -9,3 +9,4 @@ test('check', async ({ page }) => {
 
 test('get started link', async ({ page }) => {
   await page.goto('https://https://www.google.com/');
+});
